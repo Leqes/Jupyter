@@ -5,5 +5,5 @@ channels:
 dependencies:
   - ipycanvas
   - numpy
-  - torch
+  - pytorch
   - rise
